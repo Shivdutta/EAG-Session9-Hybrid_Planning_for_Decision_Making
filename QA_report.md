@@ -1,4 +1,4 @@
-**🌟 Bug Report: Decision Layer & Memory Integration Magic ✨**
+🌟 Bug Report: Decision Layer & Memory Integration Magic ✨
 
 🐞 Previously Encountered Glitches
 ❌ Decision Layer Blind Spots
@@ -7,7 +7,7 @@ It couldn’t see or use outputs from the perception layer or memory, leading to
 🧠 Lost Tool Wisdom
 Valuable tool outputs weren’t stored in memory—meaning key insights vanished into the void and couldn’t help with future queries.
 
-**🚀 Power-Up: New & Improved Workflow**
+🚀 Power-Up: New & Improved Workflow
 
 🔍 1. Memory Lookup First
 🧠 Before diving into processing, the system now checks memory for a relevant past answer.
