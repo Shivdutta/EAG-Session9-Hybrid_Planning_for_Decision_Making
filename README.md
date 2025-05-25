@@ -4,7 +4,9 @@ Cortex-R is a memory-augmented, perception-aware, and tool-using AI agent. It co
 
 📎 Related Reports:📝 QA Report|📊 Prompt Comparison Report
 
-[📝 QA Report](QA_report.md)
+[📝 Heuristics](heuristics.py)
+
+[📝 Historical Conversation Store](historical_conversation_store.json)
 
 [📊 Prompt Comparison Report](Prompt_Comparsion_Report.md)
 
