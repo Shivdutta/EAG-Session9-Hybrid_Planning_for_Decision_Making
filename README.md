@@ -2,13 +2,15 @@
 
 Cortex-R is a memory-augmented, perception-aware, and tool-using AI agent. It combines LLM planning, sandboxed code execution, and tool orchestration through dynamic MCP servers.
 
-📎 Related Reports:📝 QA Report|📊 Prompt Comparison Report
+📎 Related Files and Reports:📝 QA Report|📊 Prompt Comparison Report
 
 [📝 Heuristics](heuristics.py)
 
 [📝 Historical Conversation Store](historical_conversation_store.json)
 
 [📊 Prompt Comparison Report](Prompt_Comparsion_Report.md)
+
+[📊 QA Report](QA_report.md)
 
 ## 🧱 File Structure
 
